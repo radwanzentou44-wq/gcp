@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/mxidz"
+          "path": "/radwan-gcp-16"
         }
       }
     }
